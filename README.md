@@ -42,7 +42,14 @@ Navigate to "Personen".
 
 Create some persons. Make some changes.
 
-At least view the audit trail by clicking on the briefcase button in the row where you made the changes.
+Now you can view the audit trail by clicking on the briefcase button in the row where you made the changes.
+
+## References
+
+Thanks for the superb work:
+
+* https://github.com/Sammaye/yii2-audittrail
+* Yii2 
 
 
 
